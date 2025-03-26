@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rdls21
 - 👀 Interested in complex problems
 - 🌱 Currently learning math
-- 💞️ Looking to collaborate on project design
+- 🖥️ Looking to collaborate on project design
 - 📫 Send me an email!
 
 <!---
